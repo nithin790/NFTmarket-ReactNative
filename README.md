@@ -3,6 +3,9 @@ Hello foks! It is a react-native NFTmarketplace,where u can find u are nft to bu
 Get clone o this repo on uare local machine.open you editor and get start with install all dependecies if react-native,and then start the app with npm start.It is generate a QRcode.
 You can scan QR code in expo go app which is available in google play store intall expo on you moblie and scan the QRcode and enjoy this app😎.
 
+You directly view this app pasting this url on your expo app
+exp://exp.host/@nithin750/NFTarket?release-channel=default(paste this in expo app amd the NFT market design)
+
 
 
 ![photo_2023-01-02_18-21-31](https://user-images.githubusercontent.com/113250052/210233889-2e8bd782-b3dc-481f-b037-f361932618ed.jpg)
